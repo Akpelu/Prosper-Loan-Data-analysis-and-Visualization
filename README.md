@@ -1,6 +1,4 @@
-# (Proper Loan Dataset)
-## by Progress Akpelu
-
+UDACITY Data Analysis Nanodegree Project: 02: Prosper-Loan-Data-analysis-and-Visualization
 
 ## Dataset
 
